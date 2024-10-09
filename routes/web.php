@@ -16,7 +16,7 @@ use Illuminate\Support\Facades\Auth; // Import Auth facade
 */
 
 Route::get('/', function () {
-    return view('html.index');
+    return view('layout.index');
 });
 Route::get('/master', function () {
     return view('layout.master');
