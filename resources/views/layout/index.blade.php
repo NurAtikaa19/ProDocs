@@ -7,7 +7,7 @@
         <meta name="description" content="">
         <meta name="author" content="">
 
-        <title>Clean Work HTML CSS Template</title>
+        <title>Garuda Cyber Indonesia</title>
 
         <!-- CSS FILES -->        
         <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -66,9 +66,8 @@ Free Bootstrap 5 HTML Template
         <nav class="navbar navbar-expand-lg">
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/') }}">
-                    <img src="images/bubbles.png" class="logo img-fluid" alt="">
-
-                    <span class="ms-2">Clean Work</span>
+                    <img src="images/cyber.png" class="logo img-fluid" alt="">
+                    <span class="ms-2">Garuda Documentation</span>
                 </a>
         
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -120,12 +119,8 @@ Free Bootstrap 5 HTML Template
 
                         <div class="col-lg-7 col-12 text-center mx-auto">
                             <h1 class="cd-headline rotate-1 text-white mb-4 pb-2">
-                                <span>We clean your</span>
-                                <span class="cd-words-wrapper">
-                                    <b class="is-visible">House</b>
-                                    <b>Office</b>
-                                    <b>Kitchen</b>
-                                </span>
+                                <span>Documentation Product</span>
+
                             </h1>
 
                             <a class="custom-btn btn button button--atlas smoothscroll me-3" href="#intro-section">
@@ -158,26 +153,16 @@ Free Bootstrap 5 HTML Template
                     <div class="row justify-content-lg-center align-items-center">
 
                         <div class="col-lg-6 col-12">
-                            <h2 class="mb-4">Reliable &amp; Fast Cleaning <br> Service</h2>
+                            <h2 class="mb-4">Solusi Untuk <br>Kampus Menuju <br> Digitalisasi</h2>
 
                             <p><a href="#">Clean Work</a> is a Bootstrap v.5.1.3 HTML CSS template for free download provided by Tooplate. You can use this layout for any purpose. Images are taken from <a rel="nofollow" href="https://www.freepik.com/" target="_blank">FreePik</a> and <a rel="nofollow" href="https://worldvectorlogo.com/" target="_blank">WorldVectorLogo</a> websites.</p>
                             <p>You <strong>may not</strong> redistribute this template ZIP file on any other template collection website. Please <a href="https://www.tooplate.com/contact" target="_blank">contact us</a> for more info. Thank you.</p>
                         </div>
 
                         <div class="col-lg-6 col-12 custom-block-wrap">
-                            <img src="images/male-wearing-apron-female-white-t-shirt-smiling-broadly-being-glad-clean.png" class="img-fluid">
+                            <img src="images/ss.png" class="img-fluid">
 
-                            <div class="custom-block d-flex flex-column">
-                                <h6 class="text-white mb-3">Need Help? <br> Please call us:</h6>
-
-                                <p class="d-flex mb-0">
-                                    <i class="bi-telephone-fill custom-icon me-2"></i>
-
-                                    <a href="tel: 110-220-9800">
-                                        110-220-9800
-                                    </a>
-                                </p>
-                            </div>
+                            
                         </div>
 
                     </div>
@@ -189,8 +174,71 @@ Free Bootstrap 5 HTML Template
                 <div class="container">
                     <div class="row">
 
-                        <div class="col-lg-12 col-12">
-                            <h2 class="mb-4">Our best offers</h2>
+                        <div class="col-lg-12 col-12 text-center">
+                            <h2 class="mb-4">Product Kami</h2>
+                        </div>
+                        
+
+                        <div class="col-lg-6 col-12">
+                            <div class="services-thumb">
+                                <div class="row">
+                                    <div class="col-lg-5 col-md-5 col-12">
+                                        <div class="services-image-wrap">
+                                            <a href="services-detail.html">
+                                                <img src="images/services/people-taking-care-office-cleaning.jpg" class="services-image img-fluid" alt="">
+                                                <img src="images/services/person-taking-care-office.jpg" class="services-image services-image-hover img-fluid" alt="">
+
+                                                <div class="services-icon-wrap">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-cash me-2"></i>
+                                                            $820
+                                                        </p>
+
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-clock-fill me-2"></i>
+                                                            5 hrs
+                                                        </p>
+                                                    </div>                                                    
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
+                                        <div class="services-info mt-4 mt-lg-0 mt-md-0">
+                                            <h4 class="services-title mb-1 mb-lg-2">
+                                                <a class="services-title-link" href="services-detail.html">Presensi Online</a>
+                                            </h4>
+
+                                            <p>Presensi Online adalah sistem digital untuk pencatatan kehadiran secara otomatis dan real-time, memudahkan monitoring kehadiran siswa atau karyawan.</p>
+
+                                            <div class="d-flex flex-wrap align-items-center">
+                                                <div class="reviews-icons">
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star"></i>
+                                                    <i class="bi-star"></i>
+                                                </div>
+
+                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                    <span>Baca Dokumentasi</span>
+
+                                                    <div class="marquee" aria-hidden="true">
+                                                        <div class="marquee__inner">
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
                         </div>
 
                         <div class="col-lg-6 col-12">
@@ -222,10 +270,10 @@ Free Bootstrap 5 HTML Template
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Office Cleaning</a>
+                                                <a class="services-title-link" href="services-detail.html">CAT ONLINE</a>
                                             </h4>
 
-                                            <p>Best Cleaning Service Provider Ipsum dolor sit consectetur kengan</p>
+                                            <p>CAT Online adalah platform berbasis web untuk pelaksanaan tes berbasis komputer yang memungkinkan evaluasi dan penilaian secara real-time</p>
 
                                             <div class="d-flex flex-wrap align-items-center">
                                                 <div class="reviews-icons">
@@ -237,7 +285,7 @@ Free Bootstrap 5 HTML Template
                                                 </div>
 
                                                 <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
-                                                    <span>Learn More</span>
+                                                    <span>Baca Dokumentasi</span>
 
                                                     <div class="marquee" aria-hidden="true">
                                                         <div class="marquee__inner">
@@ -255,6 +303,191 @@ Free Bootstrap 5 HTML Template
                             </div>
                         </div>
 
+                        <div class="col-lg-6 col-12">
+                            <div class="services-thumb">
+                                <div class="row">
+                                    <div class="col-lg-5 col-md-5 col-12">
+                                        <div class="services-image-wrap">
+                                            <a href="services-detail.html">
+                                                <img src="images/services/people-taking-care-office-cleaning.jpg" class="services-image img-fluid" alt="">
+                                                <img src="images/services/person-taking-care-office.jpg" class="services-image services-image-hover img-fluid" alt="">
+
+                                                <div class="services-icon-wrap">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-cash me-2"></i>
+                                                            $820
+                                                        </p>
+
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-clock-fill me-2"></i>
+                                                            5 hrs
+                                                        </p>
+                                                    </div>                                                    
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
+                                        <div class="services-info mt-4 mt-lg-0 mt-md-0">
+                                            <h4 class="services-title mb-1 mb-lg-2">
+                                                <a class="services-title-link" href="services-detail.html">Management Wisuda</a>
+                                            </h4>
+
+                                            <p>
+                                                Manajemen Wisuda adalah sistem online untuk mengelola proses administrasi dan acara wisuda secara efisien.</p>
+
+                                            <div class="d-flex flex-wrap align-items-center">
+                                                <div class="reviews-icons">
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star"></i>
+                                                    <i class="bi-star"></i>
+                                                </div>
+
+                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                    <span>Baca Dokumentasi</span>
+
+                                                    <div class="marquee" aria-hidden="true">
+                                                        <div class="marquee__inner">
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-12">
+                            <div class="services-thumb">
+                                <div class="row">
+                                    <div class="col-lg-5 col-md-5 col-12">
+                                        <div class="services-image-wrap">
+                                            <a href="services-detail.html">
+                                                <img src="images/services/people-taking-care-office-cleaning.jpg" class="services-image img-fluid" alt="">
+                                                <img src="images/services/person-taking-care-office.jpg" class="services-image services-image-hover img-fluid" alt="">
+
+                                                <div class="services-icon-wrap">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-cash me-2"></i>
+                                                            $820
+                                                        </p>
+
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-clock-fill me-2"></i>
+                                                            5 hrs
+                                                        </p>
+                                                    </div>                                                    
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
+                                        <div class="services-info mt-4 mt-lg-0 mt-md-0">
+                                            <h4 class="services-title mb-1 mb-lg-2">
+                                                <a class="services-title-link" href="services-detail.html">KKN ONLINE</a>
+                                            </h4>
+
+                                            <p>KKN Online adalah platform digital untuk pelaksanaan Kuliah Kerja Nyata, menghubungkan mahasiswa dengan masyarakat.</p>
+
+                                            <div class="d-flex flex-wrap align-items-center">
+                                                <div class="reviews-icons">
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star"></i>
+                                                    <i class="bi-star"></i>
+                                                </div>
+
+                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                    <span>Baca Dokumentasi</span>
+
+                                                    <div class="marquee" aria-hidden="true">
+                                                        <div class="marquee__inner">
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="col-lg-6 col-12">
+                            <div class="services-thumb">
+                                <div class="row">
+                                    <div class="col-lg-5 col-md-5 col-12">
+                                        <div class="services-image-wrap">
+                                            <a href="services-detail.html">
+                                                <img src="images/services/people-taking-care-office-cleaning.jpg" class="services-image img-fluid" alt="">
+                                                <img src="images/services/person-taking-care-office.jpg" class="services-image services-image-hover img-fluid" alt="">
+
+                                                <div class="services-icon-wrap">
+                                                    <div class="d-flex justify-content-between align-items-center">
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-cash me-2"></i>
+                                                            $820
+                                                        </p>
+
+                                                        <p class="text-white mb-0">
+                                                            <i class="bi-clock-fill me-2"></i>
+                                                            5 hrs
+                                                        </p>
+                                                    </div>                                                    
+                                                </div>
+                                            </a>
+                                        </div>
+                                    </div>
+
+                                    <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
+                                        <div class="services-info mt-4 mt-lg-0 mt-md-0">
+                                            <h4 class="services-title mb-1 mb-lg-2">
+                                                <a class="services-title-link" href="services-detail.html">SPMB</a>
+                                            </h4>
+
+                                            <p>SPMB adalah sistem online untuk mengelola penerimaan mahasiswa baru secara efisien dan transparan.</p>
+
+                                            <div class="d-flex flex-wrap align-items-center">
+                                                <div class="reviews-icons">
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star-fill"></i>
+                                                    <i class="bi-star"></i>
+                                                    <i class="bi-star"></i>
+                                                </div>
+
+                                                <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
+                                                    <span>Baca Dokumentasi</span>
+
+                                                    <div class="marquee" aria-hidden="true">
+                                                        <div class="marquee__inner">
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                            <span>Learn More</span>
+                                                        </div>
+                                                    </div>
+                                                </a>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                        
                         <div class="col-lg-6 col-12">
                             <div class="services-thumb">
                                 <div class="row">
@@ -284,10 +517,10 @@ Free Bootstrap 5 HTML Template
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Kitchen Cleaning</a>
+                                                <a class="services-title-link" href="services-detail.html">AKADEMIK</a>
                                             </h4>
 
-                                            <p>Best Cleaning Service Provider Ipsum dolor sit consectetur kengan</p>
+                                            <p>Sistem Akademik Online memfasilitasi pengelolaan data akademik secara digital, memudahkan akses informasi bagi mahasiswa dan staf. </p>
 
                                             <div class="d-flex flex-wrap align-items-center">
                                                 <div class="reviews-icons">
@@ -299,7 +532,7 @@ Free Bootstrap 5 HTML Template
                                                 </div>
 
                                                 <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
-                                                    <span>Learn More</span>
+                                                    <span>Baca Dokumentasi</span>
 
                                                     <div class="marquee" aria-hidden="true">
                                                         <div class="marquee__inner">
@@ -346,10 +579,10 @@ Free Bootstrap 5 HTML Template
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Car Washing</a>
+                                                <a class="services-title-link" href="services-detail.html">UKT ONLINE</a>
                                             </h4>
 
-                                            <p>Best Cleaning Service Provider Ipsum dolor sit consectetur kengan</p>
+                                            <p>UKT Online adalah sistem yang memudahkan pengelolaan dan pembayaran Uang Kuliah Tunggal secara digital.</p>
 
                                             <div class="d-flex flex-wrap align-items-center">
                                                 <div class="reviews-icons">
@@ -361,7 +594,7 @@ Free Bootstrap 5 HTML Template
                                                 </div>
 
                                                 <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
-                                                    <span>Learn More</span>
+                                                    <span>Baca Dokumentasi</span>
 
                                                     <div class="marquee" aria-hidden="true">
                                                         <div class="marquee__inner">
@@ -408,10 +641,10 @@ Free Bootstrap 5 HTML Template
                                     <div class="col-lg-7 col-md-7 col-12 d-flex align-items-center">
                                         <div class="services-info mt-4 mt-lg-0 mt-md-0">
                                             <h4 class="services-title mb-1 mb-lg-2">
-                                                <a class="services-title-link" href="services-detail.html">Factory Cleaning</a>
+                                                <a class="services-title-link" href="services-detail.html">E LEARNING</a>
                                             </h4>
 
-                                            <p>Best Cleaning Service Provider Ipsum dolor sit consectetur kengan</p>
+                                            <p>E-Learning adalah platform pembelajaran daring yang menyediakan materi dan interaksi untuk meningkatkan proses belajar mengajar.</p>
 
                                             <div class="d-flex flex-wrap align-items-center">
                                                 <div class="reviews-icons">
@@ -423,7 +656,7 @@ Free Bootstrap 5 HTML Template
                                                 </div>
 
                                                 <a href="services-detail.html" class="custom-btn btn button button--atlas mt-2 ms-auto">
-                                                    <span>Learn More</span>
+                                                    <span>Baca Dokumentasi</span>
 
                                                     <div class="marquee" aria-hidden="true">
                                                         <div class="marquee__inner">
@@ -444,6 +677,8 @@ Free Bootstrap 5 HTML Template
                     </div>
                 </div>
             </section>
+
+            
 
 
             <section class="testimonial-section section-padding section-bg">
@@ -648,14 +883,14 @@ Free Bootstrap 5 HTML Template
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    House Cleaning
+                                    Web Kampus
                                 </a>
                             </li>
 
                             <li class="footer-menu-item">
                                 <a href="#" class="footer-menu-link">
                                     <i class="bi-chevron-double-right footer-menu-link-icon me-2"></i>
-                                    Car Washing
+                                    Sistem Kampus Online
                                 </a>
                             </li>
 
