@@ -40,3 +40,7 @@ Route::get('/coming-soon', [PageController::class, 'comingSoon'])->name('coming-
 
 
 Route::get('/contact', [PageController::class, 'contact'])->name('contact');
+Route::resource('product', FilmController::class);
+
+Route::middleware(['auth'])->group(function () {
+});
