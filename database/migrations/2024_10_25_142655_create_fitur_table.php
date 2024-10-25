@@ -11,11 +11,13 @@ return new class extends Migration
      */
     public function up(): void
     {
-        Schema::create('film', function (Blueprint $table) {
+        Schema::create('fitur', function (Blueprint $table) {
             $table->id();
-            $table->string('product_name');
-            $table->dateTime('create_time')->unique();
-            $table->string('versi');  
+            $table->string('fitur_name');
+
+            $table->unsignedBigInteger('products_idproducts');
+            $table->foreign('products_idproducts')->references('id')->on('products');
+            $table->timestamps();
         });
     }
 
@@ -24,6 +26,6 @@ return new class extends Migration
      */
     public function down(): void
     {
-        Schema::dropIfExists('film');
+        Schema::dropIfExists('fitur');
     }
 };
