@@ -1,5 +1,7 @@
-<nav class="mt-2">
+<nav class="sidebar sidebar-offcanvas">
     <ul class="nav nav-pills nav-sidebar flex-column" data-widget="treeview" role="menu" data-accordion="false">
+      <span class="sidebar-status-indicator"></span>
+
       <!-- Add icons to the links using the .nav-icon class
            with font-awesome or any other icon font library -->
       
@@ -15,7 +17,7 @@
         <a href="#" class="nav-link">
           <i class="nav-icon fas fas fa-th"></i>
           <p>
-            Pembayaran spp
+            Smart Campus
             <i class="right fas "></i>
           </p>
         </a>

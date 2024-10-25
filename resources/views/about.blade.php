@@ -140,16 +140,16 @@ Free Bootstrap 5 HTML Template
                     <div class="row">
 
                         <div class="col-lg-6 col-12">
-                            <img src="images/cleaning-concept-with-man-showing-business-card.jpg" class="featured-image img-fluid">
+                            <img src="images/cyber.PNG" class="featured-image img-fluid">
                         </div>
 
                         <div class="col-lg-6 col-12">
                             <div class="featured-block">
-                                <h2 class="mb-4">Cleaning Service Agency Since 2018</h2>
+                                <h2 class="mb-4">Garuda Cyber</h2>
 
-                                <p>Tooplate website provides a variety of latest HTML templates or Bootstrap 5 Themes for your <a href="#">business websites</a>.</p>
+                                <p>PT. Garuda Cyber Indonesia adalah perusahaan Software-as-a-Service (SaaS) yang telah dipercaya oleh lebih dari 300 mitra di seluruh Indonesia sejak tahun 2010. PT. Garuda Cyber Indonesia telah berdiri di beberapa kota besar di Indonesia (Pekanbaru, Padang, dan Jakarta).<a href="#">business websites</a>.</p>
 
-                                <p>Clean Work is a blue color theme HTML CSS template for your company website. You may use this template for any purpose.</p>
+    
 
                                 <a class="custom-btn btn button button--atlas mt-3" href="contact.html">
                                     <span>Get in touch</span>
